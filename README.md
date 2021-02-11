@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Victoria
+- 🇷🇺 I live in Moscow, Russia.
 - 🌱 I’m learning Java and Android development.
-- 🔭 I’m currently working on projects from JetBrains Academy.
+- 🔭 I’m currently working on Java-projects from JetBrains Academy.
+- You can send me an email at <a href="mailto:it.victoriagrinberg@gmail.com">it.victoriagrinberg@gmail.com</a>.
 
 ### Languages and Tools:
 <b></b>
