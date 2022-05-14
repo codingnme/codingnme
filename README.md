@@ -1,13 +1,13 @@
-### Welcome 👋, I'm Victoria
+## Welcome 👋 I'm Victoria
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=rudimentum)
 
-## I'm a Android Developer
+## I'm an Android Developer
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
-- ⚡ I'm currently working on my pet-project: [habit trasker app](https://github.com/rudimentum/HabitTracker)
+- 🚀 I'm currently working on my pet-project: [the habit tracker app](https://github.com/rudimentum/HabitTracker)
 - 🤹🏽 You can send me an email at <a href="mailto:it.victoriagrinberg@gmail.com">it.victoriagrinberg@gmail.com</a>
 
-### Languages and Tools:
+### 🛠 Languages and Tools:
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-4B4F59?style=for-the-badge&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-4B4F59?style=for-the-badge&logo=Java)
@@ -24,7 +24,7 @@
 ![Python](https://img.shields.io/badge/-Python-4B4F59?style=for-the-badge&logo=python)
 
 <details>
-  <summary>:zap: Statistics:</summary>
+  <summary>⚡ Statistics:</summary>
   
    <img align="left" alt="rudimentum's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudimentum&langs_count=8&layout=compact&theme=dracula" />
     <img align="left" alt="rudimentum's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rudimentum&show_icons=true&theme=dracula" />
