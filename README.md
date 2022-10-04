@@ -4,7 +4,7 @@
 ## I'm an Android Developer
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
-- 🚀 I'm currently working on my pet-project: [the habit tracker app](https://github.com/rudimentum/HabitTracker)
+- 🚀 I'm currently working on my pet-project: [the notes taking app](https://github.com/rudimentum/KeepNotes)
 - 🤹🏽 You can send me an email at <a href="mailto:it.victoriagrinberg@gmail.com">it.victoriagrinberg@gmail.com</a>
 
 ### 🛠 Languages and Tools:
