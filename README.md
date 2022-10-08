@@ -1,5 +1,5 @@
 ## Welcome 👋 I'm Victoria
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=rudimentum)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frudimentum%2F&label=Visitors&labelColor=%23d9e3f0&countColor=%23263759&labelStyle=upper)
 
 ## I'm an Android Developer
 - 💪 I like to write code
