@@ -23,7 +23,7 @@
    </a>&nbsp;
 </p>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcodnme%2F&label=Visitors&labelColor=%c9d1d9&countColor=%23263759&labelStyle=upper)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcodingnme%2F&label=Visitors&labelColor=%c9d1d9&countColor=%23263759&labelStyle=upper)
 ## I'm an Android Developer
 <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Android-2e3440.svg?&style=for-the-badge&logo=Android&logoColor=white">
@@ -38,25 +38,25 @@
 
 - 💪 I like to write code
 - 🥅 Constantly learning new things
-- 🚀 Currently working on my pet-project: [the notes taking app](https://github.com/codnme/KeepNotes)
+- 🚀 Currently working on my pet-project: [the notes taking app](https://github.com/codingnme/KeepNotes)
 
 <details>
   <summary><b>Languages stats</b></summary>
   <br/>
   <picture align="left">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codnme&theme=nord_dark">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codnme&theme=nord_bright">
-    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codnme&theme=nord_dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingnme&theme=nord_dark">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingnme&theme=nord_bright">
+    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingnme&theme=nord_dark">
   </picture>
   <picture align="right">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codnme&theme=nord_dark">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codnme&theme=nord_bright">
-    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codnme&theme=nord_dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingnme&theme=nord_dark">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingnme&theme=nord_bright">
+    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingnme&theme=nord_dark">
   </picture>
 </details>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codnme&theme=nord_dark">
-  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codnme&theme=nord_bright">
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codnme&theme=nord_dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingnme&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingnme&theme=nord_bright">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingnme&theme=nord_dark">
 </picture>
