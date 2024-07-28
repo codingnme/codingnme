@@ -25,6 +25,11 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvicgcode%2F&label=Visitors&labelColor=%c9d1d9&countColor=%23263759&labelStyle=upper)
 ## I'm an Android Developer
+
+- 💪 I like to write code and have been doing it for 2+ years
+- 🚀 Constantly learning new things
+- 🐶 My pet-project: [Dialectica](https://github.com/vicgcode/Dialectica)
+
 <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Android-2e3440.svg?&style=for-the-badge&logo=Android&logoColor=white">
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Android-eceff4.svg?&style=for-the-badge&logo=Android&logoColor=white">
@@ -36,10 +41,7 @@
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-2e3440.svg?&style=for-the-badge&logo=kotlin&logoColor=7F52FF">
 </picture>
 
-- 💪 I like to write code
-- 🥅 Constantly learning new things
-- 🚀 Currently working on my pet-project: [the notes taking app](https://github.com/vicgcode/KeepNotes)
-
+***
 <details>
   <summary><b>Languages stats</b></summary>
   <br/>
